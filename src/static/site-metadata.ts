@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Shannon Running',
   siteUrl: 'https://run.shannonwang.top',
-  logo: 'https://wx3.sinaimg.cn/mw690/008aLysvly1ho36ynr9kgj31181101kx.jpg',
+  logo: 'https://smms.app/image/5GPghXebHCqJFRZ',
   description: 'Personal site and blog',
   navLinks: [
     {
