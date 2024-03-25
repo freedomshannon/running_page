@@ -12,16 +12,16 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Shannon Running',
   siteUrl: 'https://run.shannonwang.top',
-  logo: 'https://postimg.cc/n9xBSD0n',
+  logo: 'https://drive.usercontent.google.com/download?id=1neD6LC10HH-zVSR3O04pBlsjj8REkS5D&export=view&authuser=0',
   description: 'Personal site and blog',
   navLinks: [
     {
       name: 'Blog',
-      url: 'blog.shannonwang.top',
+      url: 'https://blog.shannonwang.top',
     },
     {
       name: 'About',
-      url: 'blog.shannonwang.top',
+      url: 'https://blog.shannonwang.top',
     },
   ],
 };
